@@ -1,1 +1,2 @@
-# anotacoes-cursos-dio
+# Anotações DIO
+Este repositório tem a finalidade de armazenar as anotações realizadas por mim durantes os cursos ministrados pela DIO.
